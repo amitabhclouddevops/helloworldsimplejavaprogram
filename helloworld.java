@@ -1,7 +1,7 @@
 class Simple{  
     public static void main(String args[]){  
      System.out.println("Hello batch40 team My Name is  Amitabh Pandey ");
-      System.out.println("Hello Batch batch40 WITH FOR STUDENTS RUNNING in front of Amitabh in making CI automated vikas teach devops CI proecss");
-        System.out.println("Hello amitabh  Batch batch40  and i have complete Git and github also jenkins and linux  ");
+      System.out.println("Hello Batch batch40 WITH FOR STUDENTS RUNNING  in front of AMITABH PANDEY in making CI automated vikas teach devops CI proecss");
+        System.out.println("Hello amitabh  Batch batch40  and i have complete Git and github also jenkins and linux ");
     }  
 } 
